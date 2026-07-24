@@ -133,3 +133,7 @@ Add screenshots here after uploading to GitHub.
 B.Tech Artificial Intelligence & Data Science
 
 Built using Python, Scikit-learn and Streamlit.
+
+## Live Demo
+
+🔗 https://your-streamlit-url.streamlit.app
