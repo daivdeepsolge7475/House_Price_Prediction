@@ -1,12 +1,13 @@
 # 🏠 House Price Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 📌 Project Overview
 
-This project predicts the price of a house based on different features such as area, number of bedrooms, bathrooms, parking, furnishing status, and other amenities.
-
-The model is built using **Linear Regression** and deployed as a **Streamlit Web Application**.
-
----
+This project predicts house prices using Machine Learning regression algorithms. It includes complete data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation to estimate house prices accurately.
 
 ## 🚀 Features
 
