@@ -9,53 +9,44 @@
 
 This project predicts house prices using Machine Learning regression algorithms. It includes complete data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation to estimate house prices accurately.
 
-## 🚀 Features
+## ✨ Features
 
-- Predict house prices instantly
-- Interactive Streamlit web interface
-- Data preprocessing and encoding
-- Exploratory Data Analysis (EDA)
-- Linear Regression model
-- Random Forest model comparison
-- Model saved using Joblib
-
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Preprocessing
+- 🔧 Feature Engineering
+- 📈 Data Visualization
+- 🤖 Multiple Regression Models
+- 🎯 House Price Prediction
+- 📉 Model Performance Evaluation
+- 💾 Model Saving & Loading
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Joblib
-- Streamlit
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| Environment | Jupyter Notebook |
+| IDE | VS Code |
+| Version Control | Git & GitHub |
 
 ---
 
 ## 📂 Dataset
 
-Housing Price Dataset
+The dataset contains various housing features such as:
 
-Features:
+- Lot Area
+- Overall Quality
+- Year Built
+- Number of Bedrooms
+- Number of Bathrooms
+- Garage Area
+- Living Area
+- Sale Price (Target Variable)
 
-- Area
-- Bedrooms
-- Bathrooms
-- Stories
-- Main Road
-- Guest Room
-- Basement
-- Hot Water Heating
-- Air Conditioning
-- Parking
-- Preferred Area
-- Furnishing Status
-
-Target:
-
-- House Price
+Dataset used for educational and learning purposes.
 
 ---
 
@@ -75,6 +66,32 @@ Target:
 
 ---
 
+## 🤖 Machine Learning Pipeline
+
+```text
+Dataset
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+EDA
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Train/Test Split
+   │
+   ▼
+Model Training
+   │
+   ▼
+Model Evaluation
+   │
+   ▼
+Prediction
+```
 ## 📈 Model Performance
 
 ### Linear Regression
@@ -93,34 +110,6 @@ Linear Regression performed better on this dataset.
 
 ---
 
-## ▶️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/House-Price-Prediction.git
-```
-
-Move into project folder
-
-```bash
-cd House-Price-Prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python -m streamlit run app.py
-```
-
----
-
 ## 📸 Screenshots
 
 Add screenshots here after uploading to GitHub.
@@ -131,10 +120,10 @@ Add screenshots here after uploading to GitHub.
 
 **Daivdeep Solge**
 
-B.Tech Artificial Intelligence & Data Science
-
-Built using Python, Scikit-learn and Streamlit.
-
+- 📧 Email: dipaksolge1122@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/daivdeep-solge-684612328
+- 💻 GitHub: https://github.com/daivdeepsolge7475
+  
 ## Live Demo
 
 🔗 https://your-streamlit-url.streamlit.app
