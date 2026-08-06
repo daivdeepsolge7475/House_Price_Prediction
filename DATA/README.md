@@ -112,24 +112,6 @@ Linear Regression performed better on this dataset.
 
 ## 📸 Project Screenshots
 
-### 🏠 Application
-
-<p align="center">
-<img src="images/home_page.png" width="800"/>
-</p>
-
-### 📊 Exploratory Data Analysis
-
-<p align="center">
-<img src="images/eda_heatmap.png" width="700"/>
-</p>
-
-### 🎯 Prediction Result
-
-<p align="center">
-<img src="images/prediction_output.png" width="700"/>
-</p>
-
 ## 👨‍💻 Author
 
 **Daivdeep Solge**
