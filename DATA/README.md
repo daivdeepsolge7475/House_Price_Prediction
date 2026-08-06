@@ -110,8 +110,6 @@ Linear Regression performed better on this dataset.
 
 ---
 
-## 📸 Project Screenshots
-
 ## 👨‍💻 Author
 
 **Daivdeep Solge**
